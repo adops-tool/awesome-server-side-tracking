@@ -22,7 +22,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🏷️ Server-Side Tag Managers & Gateways
+## Server-Side Tag Managers & Gateways
 
 - [Google Tag Manager server-side tagging](https://developers.google.com/tag-platform/tag-manager/server-side/overview) - Run server containers that receive, transform, and route measurement events.
 - [Cloudflare Zaraz](https://developers.cloudflare.com/zaraz/) - Load and manage third-party tools through Cloudflare's edge network.
@@ -30,7 +30,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [Stape Data Tag](https://github.com/stape-io/data-tag) - Send custom events from a web GTM container to a server container.
 - [Stape Facebook Conversions API Tag](https://github.com/stape-io/facebook-tag) - Forward server-side GTM events to Meta's Conversions API.
 
-## 📦 Open-Source CDPs & Event Collectors
+## Open-Source CDPs & Event Collectors
 
 - [Snowplow](https://github.com/snowplow/snowplow) - Collect and process structured behavioral events through a configurable data pipeline.
 - [RudderStack](https://github.com/rudderlabs/rudder-server) - Collect, transform, and route customer events to downstream destinations.
@@ -39,7 +39,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [Matomo](https://github.com/matomo-org/matomo) - Self-host web analytics with configurable data ownership and reporting.
 - [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector) - Receive, process, and export telemetry through configurable pipelines.
 
-## 🔌 Conversion APIs (CAPI) & Official SDKs
+## Conversion APIs (CAPI) & Official SDKs
 
 - [Meta Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/) - Send server-side marketing events to Meta for measurement and attribution.
 - [Meta Business SDK for Node.js](https://github.com/facebook/facebook-nodejs-business-sdk) - Integrate Meta's Marketing API and Conversions API from Node.js.
@@ -49,7 +49,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [Snap Conversions API](https://developers.snap.com/api/marketing-api/Conversions-API) - Send server-side conversion events to Snapchat for campaign measurement.
 - [Reddit Conversions API](https://business.reddithelp.com/articles/Knowledge/Conversions-API) - Share conversion events with Reddit Ads through a server-to-server connection.
 
-## 🔍 Debugging, Validation & QA Tools
+## Debugging, Validation & QA Tools
 
 - [Google Tag Assistant](https://tagassistant.google.com/) - Inspect Google tags and troubleshoot browser-side tag behavior.
 - [GA4 Measurement Protocol validation](https://developers.google.com/analytics/devguides/collection/protocol/ga4/verify-implementation) - Verify event delivery with Realtime reports and DebugView.
@@ -58,7 +58,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [Chrome DevTools Network panel](https://developer.chrome.com/docs/devtools/network/) - Inspect browser requests, response headers, payloads, and timing.
 - [JSON Schema](https://json-schema.org/) - Define and validate structured event payload contracts.
 
-## ☁️ Self-Hosting & Infrastructure Templates
+## Self-Hosting & Infrastructure Templates
 
 - [sGTM Cloud Run setup](https://developers.google.com/tag-platform/tag-manager/server-side/cloud-run-setup-guide) - Provision preview and tagging servers with Google Cloud Run.
 - [sGTM manual setup](https://developers.google.com/tag-platform/tag-manager/server-side/manual-setup-guide) - Deploy Google's tagging server container image on your own infrastructure.
@@ -66,7 +66,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [PostHog deployment](https://github.com/PostHog/posthog/tree/master/docker) - Explore Docker configuration for self-hosting PostHog components.
 - [Terraform AWS modules](https://github.com/terraform-aws-modules) - Reuse infrastructure modules when provisioning AWS networking and compute for collectors.
 
-## 📐 Technical Guides, Architecture & Benchmarks
+## Technical Guides, Architecture & Benchmarks
 
 - [Server-side tagging fundamentals](https://developers.google.com/tag-platform/learn/sst-fundamentals) - Learn server container architecture, deployment, and event flow.
 - [Send data to server-side Tag Manager](https://developers.google.com/tag-platform/tag-manager/server-side/send-data) - Configure clients and route measurement requests into a server container.
@@ -75,7 +75,7 @@ A curated collection of tools and technical resources for building reliable, pri
 - [HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html) - Reference HTTP methods, status codes, caching semantics, and intermediaries.
 - [OpenTelemetry documentation](https://opentelemetry.io/docs/) - Instrument pipelines with traces, metrics, and logs for operational visibility.
 
-## 💬 Communities
+## Communities
 
 - [Measure Slack](https://join.measure.chat/) - Join practitioners discussing analytics, tagging, attribution, and measurement.
 - [r/GoogleAnalytics](https://www.reddit.com/r/GoogleAnalytics/) - Discuss Google Analytics implementation, debugging, and reporting.
@@ -89,3 +89,5 @@ Contributions are welcome! Open a pull request with a verified, publicly accessi
 ## License
 
 This list is dedicated to the public domain under [CC0 1.0 Universal](LICENSE). Linked resources retain their own licenses.
+
+[![CC0](https://img.shields.io/badge/CC0-1.0-lightgrey?style=flat-square)](LICENSE)

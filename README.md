@@ -1,6 +1,6 @@
-<div align="center">
+[![awesome-lead-generation](image/awesome-server-side-tracking.png)](https://github.com/adops-tool/awesome-server-side-tracking/pulls)
 
-# Awesome Server-Side Tracking
+[![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line) <!-- -SVG-Line- -->
 
 A curated collection of tools and technical resources for building reliable, privacy-aware server-side measurement.
 

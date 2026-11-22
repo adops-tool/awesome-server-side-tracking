@@ -1,3 +1,8 @@
+[![CONTRIBUTING](https://github.com/OstinUA/Promt-AI-Helper/blob/main/Additional%20files/Image/CONTRIBUTING.svg)](https://github.com/adops-tool)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-3e80ed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adops-tool/awesome-server-side-tracking/pulls)
+[![Open Source](https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=for-the-badge&logo=open-source&logoColor=white)](https://github.com/adops-tool/awesome-server-side-tracking/pulls)
+
 # Contributing to Awesome Server-Side Tracking
 
 Thank you for helping curate tools and technical resources for reliable, privacy-aware server-side measurement. By participating, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).

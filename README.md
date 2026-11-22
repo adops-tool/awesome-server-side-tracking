@@ -1,3 +1,5 @@
+<div align="center">
+
 [![awesome-server-side-tracking](image/awesome-server-side-tracking.png)](https://github.com/adops-tool/awesome-server-side-tracking)
 
 [![animated-line](https://github.com/readme-SVG/animated-line/blob/main/STORAGE/line-svg-3D444D.svg)](https://github.com/readme-SVG/animated-line)
@@ -7,6 +9,10 @@ A curated collection of tools and technical resources for building reliable, pri
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
+
+</div>
+
+> Each entry is marked with the kind of resource it is: ![github](image/alg_R.png) open-source repository, ![web](image/alg_I.png) documentation, specification, or hosted tool. Dormant and archived projects are kept when they still explain an architecture — they are labeled as such.
 
 ## Contents
 
